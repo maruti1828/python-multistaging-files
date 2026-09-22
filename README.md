@@ -21,8 +21,12 @@ Tech Stack:
 * Docker
 * Python Flask
 
+
+
 Key Learning:
 Multi-stage Docker builds separate the build environment from the runtime environment, resulting in smaller and cleaner production images.
+
+Application succesfull is hosted in localhost i have shared ss regarding 
 
 Repository Used for Learning:
 https://github.com/LondheShubham153/python-multistage-docker
